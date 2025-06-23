@@ -13,7 +13,7 @@ I'm **Danish K**, a dedicated Computer Science & Engineering student at the Coll
 
 ---
 
-## GitHub Stats
+## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dani-s-h007&theme=default&show_icons=true&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dani-s-h007&theme=default&hide_border=true)
@@ -33,7 +33,7 @@ I'm **Danish K**, a dedicated Computer Science & Engineering student at the Coll
 
 ---
 
-## GitHub Trophies
+## Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dani-s-h007&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
